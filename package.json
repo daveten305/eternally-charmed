@@ -1,0 +1,16 @@
+{
+  "name": "eternally-charmed",
+  "version": "1.0.0",
+  "description": "E- Commerce Web Development.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "homepage": "https://daveten305.github.io/eternally-charmed",
+    "gh-pages": "^4.0.0"
+  }
+}
